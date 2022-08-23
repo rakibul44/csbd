@@ -1,0 +1,28 @@
+{
+  "name": "gulp-scss",
+  "version": "1.0.0",
+  "description": "Gulp SCSS Starter Pack",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abidtkg/gulp-scss.git"
+  },
+  "keywords": [
+    "Gulp",
+    "SCSS"
+  ],
+  "author": "Abid Hasan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abidtkg/gulp-scss/issues"
+  },
+  "homepage": "https://github.com/abidtkg/gulp-scss#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
